@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">电话提醒服务</string>
+    <string name="auto_send_wechat_msg">未接电话短信微信提醒服务</string>
+    <string name="please_open_phone_service">请先开启 电话提醒服务</string>
+</resources>
